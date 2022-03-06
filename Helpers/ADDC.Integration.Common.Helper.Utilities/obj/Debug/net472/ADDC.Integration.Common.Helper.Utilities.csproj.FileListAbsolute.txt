@@ -1,0 +1,16 @@
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\bin\Debug\net472\ADDC.Integration.Common.Helper.Utilities.dll
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\bin\Debug\net472\ADDC.Integration.Common.Helper.Utilities.pdb
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.csproj.AssemblyReference.cache
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.AssemblyInfoInputs.cache
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.AssemblyInfo.cs
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.csproj.CoreCompileInputs.cache
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.dll
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.pdb
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\bin\Debug\net472\ADDC.Integration.Common.Helper.Utilities.dll
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\bin\Debug\net472\ADDC.Integration.Common.Helper.Utilities.pdb
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.csproj.AssemblyReference.cache
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.AssemblyInfoInputs.cache
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.AssemblyInfo.cs
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.csproj.CoreCompileInputs.cache
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.dll
+D:\ADDCRepo\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Debug\net472\ADDC.Integration.Common.Helper.Utilities.pdb

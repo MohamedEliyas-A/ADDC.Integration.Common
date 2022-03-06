@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{882475A6-914B-4CA9-821A-15B18C37D8B2}</ProjectGuid>
+    <ProjectTypeGuids>{EF7E3281-CD33-11D4-8326-00C04FA0CE8D};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>library</OutputType>
+    <GenericProcessing>true</GenericProcessing>
+    <RootNamespace>ADDC.Integration.Common.CRM.Schemas</RootNamespace>
+    <AssemblyName>ADDC.Integration.Common.CRM.Schemas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <BpelCompliance>True</BpelCompliance>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>ADDC.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Name>System.Configuration</Name>
+    </Reference>
+    <Reference Include="Microsoft.BizTalk.Pipeline">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.BizTalk.DefaultPipelines">
+      <Name>Microsoft.BizTalk.DefaultPipelines</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.BizTalk.GlobalPropertySchemas">
+      <Name>Microsoft.BizTalk.GlobalPropertySchemas</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.BizTalk.TestTools">
+      <Name>Microsoft.BizTalk.TestTools</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.XLANGs.BaseTypes">
+      <Name>Microsoft.XLANGs.BaseTypes</Name>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Schema Include="OrganizationService_schemas_datacontract_org_2004_07_Microsoft_Crm_Sdk_Messages.xsd">
+      <TypeName>OrganizationService_schemas_datacontract_org_2004_07_Microsoft_Crm_Sdk_Messages</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_datacontract_org_2004_07_Microsoft_Xrm_Sdk.xsd">
+      <TypeName>OrganizationService_schemas_datacontract_org_2004_07_Microsoft_Xrm_Sdk</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_datacontract_org_2004_07_System_Collections_Generic.xsd">
+      <TypeName>OrganizationService_schemas_datacontract_org_2004_07_System_Collections_Generic</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_2003_10_Serialization.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_2003_10_Serialization</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_2003_10_Serialization_Arrays.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_2003_10_Serialization_Arrays</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_crm_2011_Contracts.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_crm_2011_Contracts</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2011_Contracts.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2011_Contracts</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2011_Contracts_Services.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2011_Contracts_Services</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2011_Metadata.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2011_Metadata</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2011_Metadata_Query.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2011_Metadata_Query</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2012_Contracts.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2012_Contracts</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2013_Metadata.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2013_Metadata</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="OrganizationService_schemas_microsoft_com_xrm_2014_Contracts.xsd">
+      <TypeName>OrganizationService_schemas_microsoft_com_xrm_2014_Contracts</TypeName>
+      <Namespace>ADDC.Integration.Common.CRM.Schemas</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ADDC.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\BizTalk\BizTalkC.targets" />
+</Project>

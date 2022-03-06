@@ -1,0 +1,6 @@
+D:\Mil\POC1\ADDC.Integration.Common\ADDC.Integration.Common.CRM.Schemas\bin\Release\ADDC.Integration.Common.CRM.Schemas.dll
+D:\Mil\POC1\ADDC.Integration.Common\ADDC.Integration.Common.CRM.Schemas\bin\Release\ADDC.Integration.Common.CRM.Schemas.pdb
+D:\Mil\POC1\ADDC.Integration.Common\ADDC.Integration.Common.CRM.Schemas\obj\Release\ADDC.Integration.Common.CRM.Schemas.btproj.CoreCompileInputs.cache
+D:\Mil\POC1\ADDC.Integration.Common\ADDC.Integration.Common.CRM.Schemas\obj\Release\ADDC.Integration.Common.CRM.Schemas.dll
+D:\Mil\POC1\ADDC.Integration.Common\ADDC.Integration.Common.CRM.Schemas\obj\Release\ADDC.Integration.Common.CRM.Schemas.pdb
+D:\Mil\POC1\ADDC.Integration.Common\ADDC.Integration.Common.CRM.Schemas\obj\Release\ADDC.Integration.Common.CRM.Schemas.btproj.AssemblyReference.cache

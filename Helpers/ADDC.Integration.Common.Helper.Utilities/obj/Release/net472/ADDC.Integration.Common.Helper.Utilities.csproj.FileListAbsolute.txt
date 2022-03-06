@@ -1,0 +1,8 @@
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Release\net472\ADDC.Integration.Common.Helper.Utilities.csproj.AssemblyReference.cache
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Release\net472\ADDC.Integration.Common.Helper.Utilities.AssemblyInfoInputs.cache
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Release\net472\ADDC.Integration.Common.Helper.Utilities.AssemblyInfo.cs
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Release\net472\ADDC.Integration.Common.Helper.Utilities.csproj.CoreCompileInputs.cache
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\bin\Release\net472\ADDC.Integration.Common.Helper.Utilities.dll
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\bin\Release\net472\ADDC.Integration.Common.Helper.Utilities.pdb
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Release\net472\ADDC.Integration.Common.Helper.Utilities.dll
+D:\Mil\POC1\ADDC.Integration.Common\Helpers\ADDC.Integration.Common.Helper.Utilities\obj\Release\net472\ADDC.Integration.Common.Helper.Utilities.pdb
